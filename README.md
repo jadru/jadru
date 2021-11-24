@@ -8,7 +8,7 @@
 - Chief Technology Officer at [Its Design Studio](http://itsteam.kr)
 - Deputy Manager at MegaBrain, study group at Inje Univ. Dept. of C.E.
 
-## **🛠️ Stacks**
+## 🛠️ Stacks
 
 ### Java
 
@@ -24,4 +24,4 @@
 - **Experience** : project management via Github
 - **Can** : manage source code version and cooperating
 
-[ Development Portfolio](https://www.notion.so/a52dce78175e4ae3a43a556ff836327d)
+[Development Portfolio](https://www.notion.so/a52dce78175e4ae3a43a556ff836327d)

@@ -1,6 +1,6 @@
 # Hello World!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadru&count_bg=%231D4D64&title_bg=%23000000&icon=safari.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadru&count_bg=%231D4D64&title_bg=%23000000&icon=safari.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/jadru)
 
 ## 💻 Today
 
@@ -9,7 +9,7 @@
 - Deputy Manager at MegaBrain, study group at Inje Univ. Dept. of C.E.
 
 ![Younggun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadru&show_icons=true&theme=city_lights)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadru&layout=compact)](https://github.com/jadrus)
 
 ## 🛠️ Stacks
 

@@ -8,7 +8,6 @@
 - Chief Technology Officer at [Its Design Studio](http://itsteam.kr)
 - Deputy Manager at MegaBrain, study group at Inje Univ. Dept. of C.E.
 
-![Younggun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadru&show_icons=true&theme=city_lights)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadru&layout=compact)](https://github.com/jadrus)
 
 ## 🛠️ Stacks

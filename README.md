@@ -12,7 +12,7 @@ I'm Younggun Park!
 ## 👀 Stats
 [Development Portfolio](https://www.notion.so/a52dce78175e4ae3a43a556ff836327d)
 [![github stats](https://github-readme-streak-stats.herokuapp.com/?user=jadru)]
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jadru)](https://github.com/anuraghazra/githb-readme-stats)
 
 ## 📫 How to reach me:
 - ygpark0922@gmail.com

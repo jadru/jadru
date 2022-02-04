@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadru&count_bg=%231D4D64&title_bg=%23000000&icon=safari.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/jadru)
 
-I'm >Younggun Park! 
+I'm Younggun Park! 
 - <i>Currently:</i> BA CS Student at Inje University.
 
 <h2>💻 I'm Currently Learning</h2>

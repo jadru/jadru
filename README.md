@@ -13,7 +13,7 @@
 - **Experience** : Developing Android Application.
 - **Understanding** : Object Oriented Programming.
 
-## Kotlin
+### Kotlin
 - **Can** : solve algorithm problems.
 ### Python
 - **Can** : solve algorithm problems.

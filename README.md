@@ -7,7 +7,6 @@ I'm Younggun Park!
 
 ## 👀 Stats
 [![gitHub stats](https://github-readme-streak-stats.herokuapp.com?user=jadru&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jadru)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 - ygpark0922@gmail.com

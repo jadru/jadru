@@ -5,9 +5,6 @@
 I'm Younggun Park! 
 - *Currently:* BA CS Student at Inje University.
 
-## 👀 Stats
-[![gitHub stats](https://github-readme-streak-stats.herokuapp.com?user=jadru&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## 📫 How to reach me:
 - ygpark0922@gmail.com
 - https://www.linkedin.com/in/younggunii/

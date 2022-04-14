@@ -7,7 +7,7 @@ I'm Younggun Park!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&@jadru&layout=compact&&theme=default&link="https://www.github.com/jadru/") 
+[![wakatime](https://wakatime.com/badge/user/f540e244-146f-4ce9-b1ed-bc3c9019fde1.svg)](https://wakatime.com/@f540e244-146f-4ce9-b1ed-bc3c9019fde1)
 
 ## 📫 How to reach me:
 - ygpark0922@gmail.com

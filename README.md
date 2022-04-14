@@ -5,7 +5,10 @@
 I'm Younggun Park! 
 - *Currently:* BA CS Student at Inje University.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 How to reach me:
 - ygpark0922@gmail.com
 - https://www.linkedin.com/in/younggunii/
-- https://jadru.github.io
+- https://jadru.medium.com

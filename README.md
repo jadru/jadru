@@ -1,6 +1,4 @@
 ## Hey! 👋
-
-<script src="https://gist.github.com/jadru/8eca4149195ae53647bd242abc380590.js"></script>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadru&count_bg=%231D4D64&title_bg=%23000000&icon=safari.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/jadru)
 

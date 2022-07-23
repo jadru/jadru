@@ -13,4 +13,4 @@ I'm Younggun Park!
 ## 📫 How to reach me:
 - ygpark0922@gmail.com
 - https://www.linkedin.com/in/younggunii/
-- https://jadru.medium.com
+- https://www.jadru.com

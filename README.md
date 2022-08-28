@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/f540e244-146f-4ce9-b1ed-bc3c9019fde1.svg)](https://wakatime.com/@f540e244-146f-4ce9-b1ed-bc3c9019fde1) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 I'm Younggun Park! 
-- *Currently:* BA CS Student at Inje University.
+- *Currently:* BS CE Student at Inje University.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

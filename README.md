@@ -1,51 +1,44 @@
-# Hey there! 👋
+# Younggun Park
 
 [![wakatime](https://wakatime.com/badge/user/f540e244-146f-4ce9-b1ed-bc3c9019fde1.svg)](https://wakatime.com/@f540e244-146f-4ce9-b1ed-bc3c9019fde1)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-## 🚀 About Me
+Product Engineer (Frontend) based in Seoul.
 
-I'm **Younggun Park**, a Software Engineer based in **Seoul**, focused on **Frontend Engineering** and product-driven development.  
-Currently at [P2ACH.AI](https://p2ach.ai), I design and build **next-generation dashboards** and **client portals** that power retail analytics and data visualization at scale.
+I work on the product layer around Vision AI-powered analytics systems at [P2ACH AI](https://p2ach.ai): dashboards, client-facing workflows, chart interactions, data views, and the QA needed to make complex product surfaces usable.
 
-My strength lies in combining **modern frontend frameworks** with clean architecture and developer experience—helping teams move fast without sacrificing long-term quality.
+Most of my work starts with messy product problems: offline retail data, dashboard requirements, multilingual UI, browser edge cases, and interaction details that only show up after actually using the product for a while.
 
----
+## What I Work On
 
-## 🛠️ Core Skills
+- Frontend interfaces for AI-powered analytics systems
+- Data-heavy dashboards and client portals
+- Chart editing, dashboard settings, and layout interactions
+- Multilingual product surfaces for B2B workflows
+- AI-assisted development workflows using coding agents
+- Browser QA, release checks, and product polish
 
-- **Frontend Engineering**
-  - Next.js 15 (App Router, Server Actions)
-  - React Query v5, Zustand, custom hooks
-  - shadcn/ui, Atomic Design, Figma tokens integration
-  - Multi-language (EN/KR/JP/VI) i18n systems
-- **Developer Experience**
-  - Yarn Berry monorepo structuring (apps & packages)
-  - Shared UI libraries & design tokens
-  - GitHub Actions automation, PR previews, release flows
-- **Beyond the Browser**
-  - Occasional Android app development
-  - Dockerized builds, multi-arch images, CI/CD pipelines
+## How I Build
 
----
+I use AI coding agents across planning, implementation, refactoring, QA, documentation, and release work.
 
-## 🌏 Projects & Explorations
+But I do not treat agent output as done.
 
-- **Multilingual Analytics Dashboards** – interactive data visualizations across multiple regions.  
-- **Client-Specific Portals** – scalable portals built on a shared monorepo foundation.  
-- **UI Libraries** – reusable, atomic-design-based component systems with Figma token sync.  
-- **Occasional Edge Apps** – Android-based CMS/vision players when syncing devices with cloud dashboards.  
-- **Side Ventures** – Running the [artscope.kr](https://artscope.kr) artist community and constantly exploring innovative ideas
+I break the problem down, review the code, test the behavior, and keep pushing until the product is actually usable.
 
----
+## Tools I Often Use
 
-## 📫 How to Reach Me
+React · TypeScript · Next.js · TanStack Query · Zustand · shadcn/ui · i18n · GitHub Actions · Docker
 
-- 📧 [ygpark0922@gmail.com](mailto:ygpark0922@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jadru/)
-- 📝 [Blog](https://www.jadru.com)
+## Projects & Explorations
 
----
+- Analytics dashboard interfaces for retail and media data
+- Client-specific portals built on shared frontend systems
+- Chart editor and dashboard interaction experiments
+- Shared UI libraries, design tokens, and frontend architecture
+- Side projects around art, communities, and AI-assisted product building
 
-⭐️ Passionate about **frontend excellence, clean architecture, and scaling products globally**.  
-Always open to coffee chats ☕ or invitations to great communities 🤝 — happy to **connect and share ideas!**
+## Links
+
+- Website: https://jadru.com
+- LinkedIn: https://www.linkedin.com/in/jadru
+- Email: [ygpark0922@gmail.com](mailto:ygpark0922@gmail.com)

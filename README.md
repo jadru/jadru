@@ -1,41 +1,34 @@
 # Younggun Park
 
-[![wakatime](https://wakatime.com/badge/user/f540e244-146f-4ce9-b1ed-bc3c9019fde1.svg)](https://wakatime.com/@f540e244-146f-4ce9-b1ed-bc3c9019fde1)
+Product-oriented Frontend Engineer based in Seoul.
 
-Product Engineer (Frontend) based in Seoul.
+I build React and TypeScript products where Web UI meets Android WebView, Edge devices, cameras, and local networks. At [P2ACH AI](https://p2ach.ai), I turn on-device Vision AI and B2B retail constraints into interfaces and operating workflows that work in the field.
 
-I work on the product layer around Vision AI-powered analytics systems at [P2ACH AI](https://p2ach.ai): dashboards, client-facing workflows, chart interactions, data views, and the QA needed to make complex product surfaces usable.
+For an offline Vision AI demo, I proposed the device-hosted Web UI and implemented its Next.js static export and Android v1 local server and OTA flow. It has run at 20 external exhibitions with 4 or more Edge devices per event, without a separate server PC, and in an internal demo room every business day for about 1 year and 5 months. While offline, the runtime loads the current local bundle; an update changes the version pointer only after archive extraction succeeds.
 
-Most of my work starts with messy product problems: offline retail data, dashboard requirements, multilingual UI, browser edge cases, and interaction details that only show up after actually using the product for a while.
+I also proposed and implemented a drag-and-drop Dashboard Editor that moved chart changes for 7 new PoCs from about half a day of development followed by QA and a hotfix deployment to about 10 minutes of Ops configuration.
 
 ## What I Work On
 
-- Frontend interfaces for AI-powered analytics systems
-- Data-heavy dashboards and client portals
-- Chart editing, dashboard settings, and layout interactions
-- Multilingual product surfaces for B2B workflows
-- AI-assisted development workflows using coding agents
-- Browser QA, release checks, and product polish
+- Offline-capable Web UI on Android WebView and Edge devices
+- Local HTTP serving, static bundles, and versioned update flows
+- Data-heavy dashboards, visual editors, and operator self-service
+- Shared TypeScript contracts across Web, API, mobile, and Edge
+- AI-assisted delivery verified with real data, devices, tests, CI, browser QA, and production telemetry
 
 ## How I Build
 
-I use AI coding agents across planning, implementation, refactoring, QA, documentation, and release work.
-
-But I do not treat agent output as done.
-
-I break the problem down, review the code, test the behavior, and keep pushing until the product is actually usable.
+I start with user and operator constraints, make ownership and failure boundaries explicit, and validate the result in the environment where it will run. I use coding agents across planning, implementation, refactoring, QA, and documentation, but review their output and verify it with the actual system.
 
 ## Tools I Often Use
 
-React · TypeScript · Next.js · TanStack Query · Zustand · shadcn/ui · i18n · GitHub Actions · Docker
+React · TypeScript · Next.js · Vite · React Native · Android WebView · TanStack Query · Zustand · Vitest · Datadog RUM · GitHub Actions · Docker
 
-## Projects & Explorations
+## Selected Work
 
-- Analytics dashboard interfaces for retail and media data
-- Client-specific portals built on shared frontend systems
-- Chart editor and dashboard interaction experiments
-- Shared UI libraries, design tokens, and frontend architecture
-- Side projects around art, communities, and AI-assisted product building
+- [BrandKit](https://github.com/jadru/brand-kit) — public Next.js and TypeScript product codebase with Vitest and CI ([live product](https://brand-kit.jadru.com/ko))
+- [Tauri v2: why I chose it over Electron](https://jadru.com/blog/build-tauri) — WebView, local data, test fallback, and update trade-offs
+- [MYMU](https://apps.apple.com/kr/app/mymu-%EB%AF%B8%EC%88%A0%EA%B4%80-%EA%B8%B0%EB%A1%9D-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id6757892642) — shipped Expo and React Native exhibition discovery and visit-recording app ([website](https://mymu.app))
 
 ## Links
 
